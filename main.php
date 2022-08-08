@@ -9,5 +9,9 @@
 <body>
     <h1><?php echo "hello world"?></h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto distinctio modi, impedit minus amet.</p>
+    <ul>
+        <li>halo</li>
+        <li>dunia</li>
+    </ul>
 </body>
 </html>
